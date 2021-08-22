@@ -1,0 +1,9 @@
+{
+	"name": "dfretaildev",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a73742fb-9f5a-4586-82df-e54c5e545eba",
+		"tenantId": "2060bfb9-0144-456f-8a58-a73d7ebe5b31"
+	}
+}
